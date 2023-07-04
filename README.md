@@ -50,9 +50,9 @@ the output will be present in the output folder
 
 ## Screenshots
 
-![detect_sideview](https://github.com/gangadharsriram/Degree-Of-Thoracic-Cervical-Flexion-and-Degree-of-Thoracic-Lumbar-Flexion-Detector-for-Golfers/blob/main/.img/4.png)
+![detect_sideview](https://github.com/gangadharsriram/Degree-Of-Thoracic-Cervical-Flexion-and-Degree-of-Thoracic-Lumbar-Flexion-Detector-for-Golfers/blob/main/.img/4_out.png)
 
-![detect_front_view](https://github.com/gangadharsriram/Degree-Of-Thoracic-Cervical-Flexion-and-Degree-of-Thoracic-Lumbar-Flexion-Detector-for-Golfers/blob/main/.img/6.png)
+![detect_front_view](https://github.com/gangadharsriram/Degree-Of-Thoracic-Cervical-Flexion-and-Degree-of-Thoracic-Lumbar-Flexion-Detector-for-Golfers/blob/main/.img/6_out.png)
 
 
 
