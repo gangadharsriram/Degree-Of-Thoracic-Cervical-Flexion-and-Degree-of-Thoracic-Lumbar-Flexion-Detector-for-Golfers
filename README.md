@@ -49,7 +49,8 @@ the output will be present in the output folder
 
 
 ## Screenshots
-
+the hip measurement is the Degree of Thoracic Lumbar Flexion (Magenta) and the sholder measurement is the Degree Of Thoracic-Cervical Flexion (Magenta) and the line in cyan
+represent the sholder swing and the angle in white
 ![detect_sideview](https://github.com/gangadharsriram/Degree-Of-Thoracic-Cervical-Flexion-and-Degree-of-Thoracic-Lumbar-Flexion-Detector-for-Golfers/blob/main/.img/4_out.png)
 
 ![detect_front_view](https://github.com/gangadharsriram/Degree-Of-Thoracic-Cervical-Flexion-and-Degree-of-Thoracic-Lumbar-Flexion-Detector-for-Golfers/blob/main/.img/6_out.png)
