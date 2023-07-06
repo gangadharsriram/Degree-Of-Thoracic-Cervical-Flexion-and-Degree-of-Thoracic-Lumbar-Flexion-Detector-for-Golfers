@@ -34,13 +34,13 @@ Install the requirements
 pip install -r requirements.txt
 ```
 
-place the side view video in the side_folder
+place the side view video in the side_view folder
 ```
 python detect_sideview.py
 ```
 
 
-place the front view video in the front_folder
+place the front view video in the front_view folder
 ```
 python detect_frontview.py
 ```
